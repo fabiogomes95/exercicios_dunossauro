@@ -28,6 +28,8 @@ Este repositório contém as minhas resoluções para lista de exercícios de pr
  ┃ ┣ 📜 01_alo_mundo.py
  ┃ ┣ 📜 02_numero_informado.py
  ┃ ┣ 📜 03_soma.py
+ ┃ ┣ 📜 04_media.py
+ ┃ ┣ 📜 05_conversor.py
  ┃ ┗ 📜 ...
  ┣ 📂 02_estrutura_de_decisao
  ┃ ┗ 📜 (em breve)
