@@ -1,14 +1,12 @@
 # 🐍 Resoluções em Python - Lista de Exercícios (Dunossauro)
 
-Este repositório contém as minhas resoluções para lista de exercícios de programação do dunossauro, baseada no material do Eduardo Mendes ([@dunossauro](https://github.com/dunossauro)). O objetivo deste repositório é documentar minha jornada de aprendizado e prática com Python.
+Este repositório contém as minhas resoluções para a lista de exercícios de programação, baseada no material organizado pelo Eduardo Mendes ([@dunossauro](https://github.com/dunossauro)). O objetivo deste repositório é documentar minha jornada de aprendizado e prática com Python.
 
 🔗 **Link para o material original:** [Exercícios do Dunossauro](https://exercicios.dunossauro.com/)
 
-## 🛠️ Tecnologias Utilizadas
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ## 🚀 Meu Progresso
+
+Abaixo está o meu acompanhamento de cada módulo da lista. Conforme eu for avançando, vou marcando os tópicos concluídos e adicionando os códigos nas respectivas pastas.
 
 - [x] Estrutura sequencial (Em andamento)
 - [ ] Estrutura de decisão
@@ -19,11 +17,14 @@ Este repositório contém as minhas resoluções para lista de exercícios de pr
 - [ ] Exercícios sobre arquivos
 - [ ] Exercícios sobre classes
 - [ ] Lista de projetos
+- [ ] Lista de dados
 
 ## 📁 Estrutura do Repositório
 
+Os códigos estão organizados em pastas de acordo com os módulos acima.
+
 ```text
-📦 seu_repositorio
+📦 exercicios_dunossauro
  ┣ 📂 estrutura_sequencial
  ┃ ┣ 📜 01_alo_mundo.py
  ┃ ┣ 📜 02_numero_informado.py
@@ -31,11 +32,16 @@ Este repositório contém as minhas resoluções para lista de exercícios de pr
  ┃ ┣ 📜 04_media.py
  ┃ ┣ 📜 05_conversor.py
  ┃ ┗ 📜 ...
- ┣ 📂 02_estrutura_de_decisao
+ ┣ 📂 estrutura_de_decisao
  ┃ ┗ 📜 (em breve)
  ┗ 📜 README.md
+```
 
- ## 💻 Como Executar
+## 🛠️ Tecnologias Utilizadas
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 💻 Como Executar
 
 Para rodar qualquer um dos scripts na sua máquina:
 
@@ -54,7 +60,7 @@ Para rodar qualquer um dos scripts na sua máquina:
 
 ## 🤝 Contribuições
 
-Sinta-se à vontade para explorar os códigos! Se tiver alguma sugestão de melhoria ou uma forma mais "Pythônica" de resolver algum dos problemas, fique à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
+Sinta-se à vontade para explorar os códigos! Se tiver alguma sugestão, fique à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
 
 ---
 Feito com ☕ e Python por [Fábio Gomes](https://github.com/fabiogomes95).
