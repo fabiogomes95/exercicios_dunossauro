@@ -24,7 +24,7 @@ Este repositório contém as minhas resoluções para lista de exercícios de pr
 
 ```text
 📦 seu_repositorio
- ┣ 📂 01_estrutura_sequencial
+ ┣ 📂 estrutura_sequencial
  ┃ ┣ 📜 01_alo_mundo.py
  ┃ ┣ 📜 02_numero_informado.py
  ┃ ┣ 📜 03_soma.py
@@ -34,3 +34,27 @@ Este repositório contém as minhas resoluções para lista de exercícios de pr
  ┣ 📂 02_estrutura_de_decisao
  ┃ ┗ 📜 (em breve)
  ┗ 📜 README.md
+
+ ## 💻 Como Executar
+
+Para rodar qualquer um dos scripts na sua máquina:
+
+1.  Clone este repositório:
+    ```bash
+    git clone [https://github.com/fabiogomes95/exercicios_dunossauro.git](https://github.com/fabiogomes95/exercicios_dunossauro.git)
+    ```
+2.  Navegue até a pasta do módulo que deseja ver:
+    ```bash
+    cd exercicios_dunossauro/estrutura_sequencial
+    ```
+3.  Execute o arquivo com Python (exemplo):
+    ```bash
+    python 01_alo_mundo.py
+    ```
+
+## 🤝 Contribuições
+
+Sinta-se à vontade para explorar os códigos! Se tiver alguma sugestão de melhoria ou uma forma mais "Pythônica" de resolver algum dos problemas, fique à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
+
+---
+Feito com ☕ e Python por [Fábio Gomes](https://github.com/fabiogomes95).
